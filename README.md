@@ -1,2 +1,8 @@
 #Caltech Phase 1 Projects 
 #This Github projects can help us to collaborate in an efficient and effective manner across scrum teams.
+#Lets make it a practice to frequently sync our local repos with remote ones.
+
+
+
+
+
